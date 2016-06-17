@@ -2,7 +2,7 @@
 published: true
 title: Obsession? Thy name today is car
 layout: post
-tags: [car, machinist, hobby]
+tags: [car, saablife, machinist, hobby]
 ---
 ![cover-image](https://dl.dropboxusercontent.com/u/2959356/blog/P_20160328_131920.jpg)
 
