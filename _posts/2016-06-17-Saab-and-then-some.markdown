@@ -31,8 +31,18 @@ A quick trip to AutoZone for a new battery, and to the gas station for half a ta
 
 The list of work I have done to it so far, is quite extensive.
 
+`It was at this time, I decided to name the car Börk.`
+
+### What's next?
+All that having been accomplished, and the car is not currently drivable. The front wheels had started wobbling around turns. I took a weekend and found a cascading series of problems the front suspension assembly. It has turned in to a two month project fueled by stubborn determination.
+
+I can say for sure, when I get the car driving again, I still won't be done with it. When I regain confidence in the car, I'll start replacing bigger things. New intercooler, new turbo, engine tuning.
+
+I still swear I am not a car guy, I am a jet guy.
+
+
 ### What's done
-<div style="align="center";height:200px;width:70%;border:1px solid;overflow:auto">
+<div style="align=center;height: 200px;width: 70%;border: 1px solid;overflow: auto">
 <ul>
     <li> Inspect Brake pads
         <ul>
@@ -92,12 +102,3 @@ The list of work I have done to it so far, is quite extensive.
     <li> Replace Control Arms/bushings 6/10
 </ul>
 </div>
-
-`It was at this time, I decided to name the car Börk.`
-
-### What's next?
-All that having been accomplished, and the car is not currently drivable. The front wheels had started wobbling around turns. I took a weekend and found a cascading series of problems the front suspension assembly. It has turned in to a two month project fueled by stubborn determination.
-
-I can say for sure, when I get the car driving again, I still won't be done with it. When I regain confidence in the car, I'll start replacing bigger things. New intercooler, new turbo, engine tuning.
-
-I still swear I am not a car guy, I am a jet guy.
