@@ -4,6 +4,7 @@ title: Obsession? Thy name today is car
 layout: post
 tags: [car, machinist, hobby]
 ---
+![cover-image](https://dl.dropboxusercontent.com/u/2959356/blog/P_20160328_131920.jpg)
 
 People who know me, understand that I tend to get obsessed with new hobbies. The most recent of which, has been working on my Saab 2002 9-3 hatchback.
 
