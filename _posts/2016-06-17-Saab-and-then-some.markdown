@@ -15,7 +15,7 @@ Being a 14 year old car as of this posting, it has its fair share of problems. I
 The first owner, was the DoD. There's a sticker right on the front of the windshield. Inside the Carfax, there is evidence of the rigorous maintenance performed for the first 12 years of this cars' life. Every 6 months it was taken to a Saab dealer for scheduled maintenance. It never failed a single emissions test or reported a leak prone to so many Saabs.
 
 
-<div style="float: right ;margin: 7px">
+<div markdown="1" style="float: right ;margin: 7px">
 ![I make a "Vwooooosh sound every time I open mine."](http://i.imgur.com/kUWMRkK.gif)
 </div>
 
