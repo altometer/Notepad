@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Obsession? Thy name today is car
 layout: post
 tags: [car, machinist, hobby]
