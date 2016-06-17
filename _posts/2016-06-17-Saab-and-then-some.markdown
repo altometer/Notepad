@@ -32,7 +32,7 @@ A quick trip to AutoZone for a new battery, and to the gas station for half a ta
 The list of work I have done to it so far, is quite extensive.
 
 ### What's done
-<div style="height:200px;width:70%;border:1px solid;overflow:auto">
+<div style="align="center";height:200px;width:70%;border:1px solid;overflow:auto">
 <ul>
     <li> Inspect Brake pads
         <ul>
