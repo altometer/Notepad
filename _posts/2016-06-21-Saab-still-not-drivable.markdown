@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Saab holdup. Again.
 layout: post
 tags: [car, mechanic, saablife]
