@@ -1,5 +1,5 @@
-title:            I Just Do things
-description:      A blog where I keep my ramblings on exploration of everything.
+title:            I Just Do Things
+description:      A blog for avid enthusiests of everything.
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
@@ -11,25 +11,26 @@ url:
 owner:
   name:           Nathaniel Evry
   avatar:         avatar.jpg
-  bio:            "I can't rest. I will learn, grow, create, and change things."
-  email:          Nathaniel@IjustDoThings.com
+  bio:            "Who I am is different than what I will be tomorrow. I want to continuously learn and grow."
+  email:          Nathaniel@ijustdothings.com
   # Social networking links used in footer. Update and remove as you like.
-#  twitter:  altometer
- # facebook:
+  # twitter:
+  # facebook:
   github: https://github.com/altometer
   # stackexchange:
   # linkedin:
-  # instagram:
-  # flickr:
-  # tumblr:
+ #  instagram:
+ #  flickr:
+ #  tumblr:
   # google plus id, include the '+', eg +mmistakes
-  # google_plus:
+ #  google_plus:
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-37746402-1
+google_analytics:
+    UA-37746402-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
