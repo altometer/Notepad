@@ -4,12 +4,11 @@ title: Where do I buy my printer stuff? (part 1 of ?)
 layout: post
 tags: [3dPrinting, robotdigg]
 ---
-#### 3D print finished. Well, mostly.
-
 ![placeholder for pictures]()
 
 As you can see, the 3D print finished! But...well.... It didn't work as expected.
 The internal walls of the print for whatever reason, didn't render. It printed, but the pencil cup has a few issues. It would probably be much better with the intended internal walls.
+
 
 #### New 3D printer parts are here.
 

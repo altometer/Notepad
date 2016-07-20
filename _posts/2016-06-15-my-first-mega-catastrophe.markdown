@@ -8,6 +8,7 @@ tags: [home server, server, technology]
 The home-lab Server. Often riding the line between **testing** and **production**. Unfortunately, I ran in to a few issues that forever changed the way I handle building systems and testing them.
 Let this be a cautionary tale.
 
+
 ## Backstory
 My first server, was a Compaq dual-core 2.2GHz core2-duo Laptop with 4GB of memory. It is the first real experience I had running Ubuntu server. Version of choice? 10.04. To surmise what I had it doing:
 1. File Services.

@@ -6,8 +6,8 @@ tags: [car, mechanic, saablife]
 ---
 
 Finally, my car is off the jacks. There are actually indents in my driveway from the three weeks it was up on the stands.
-
 ![Placeholder for picture of driveway](https://dl.dropboxusercontent.com/u/2959356/blog/driveway_indent.png)
+
 
 ![Placeholder for video of car lowering]()
 

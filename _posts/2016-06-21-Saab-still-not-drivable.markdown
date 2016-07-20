@@ -7,6 +7,7 @@ tags: [car, mechanic, saablife]
 
 Well, here I am again. Waiting on more parts. I was working last night further on my car, and found a rather annoying feature on my extremely rusty steering knuckles. The strut sleeve is welded in place and not removable without excessive force.
 
+
 I applied excessive force and mangled the existing sleeves.
 
 The knuckles were removed due to completely shot front struts, a suspected bad passenger axle bearing, and a broken bolt inside the passenger wheel hub.

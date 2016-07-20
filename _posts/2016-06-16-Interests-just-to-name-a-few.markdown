@@ -8,6 +8,7 @@ tags: [personal, list]
 ---
 As I continue to update the blog, I will try to come back to this post and update each category with at least a few entries. Otherwise, just use this as a vague list of what to expect out of this blog. No promises.
 
+
 The text version of this list was generated using [coggle.it.](www.coggle.it). Coggle.it offers a free mind-map service with just a simple Google account login. They have a paid version where they paywall many features like auto-organize or changing color. If you can live without, it is one of the prettier mind-mappers out there. Click [here](https://litemind.com/what-is-mind-mapping/) for more information on mind-mapping. Basically, it's a way to quickly enumerate and cluster related objects. This is only useful if your brain already works in a sort-of hierarchical fashion.
 
 ### Learning

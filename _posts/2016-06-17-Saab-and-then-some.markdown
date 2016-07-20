@@ -8,6 +8,7 @@ tags: [car, saablife, machinist, hobby]
 
 People who know me, understand that I tend to get obsessed with new hobbies. The most recent of which, has been working on my Saab 2002 9-3 hatchback.
 
+
 This is my first car with a turbo. My first car that I feel like goes vroom. Out of the factory it gets 205bhp. With a stage1 tune, new air filter, and no mods, it gets 260bhp.
 
 Being a 14 year old car as of this posting, it has its fair share of problems. I mostly lucked out. This car was purchased in Baltimore for $1000 and with a nearly complete service history. It's only had two owners and has less than 140,000 miles on it.
