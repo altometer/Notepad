@@ -4,13 +4,11 @@ title: Time is Precious
 layout: post
 tags: [life, ocd, Optimization, analytics, perspective]
 ---
-
 Time is the most valuable thing you have. A mindset that I continually impress on people is that by working, you are selling your time. To rephrase, a company is buying part of your life, in exchange for money. You need the money for altering your life. But you can still live without money.
 
 A job opportunity skittered across my desk last week nearing the 150k range for a Linux dev ops job in Philadelphia. I am overqualified for the position but it is thy type of thing that could easily grow to fit my feet. Why didn't I take it? I live in rural PA, and it would be 100% in-office work. No telecommuting. A few friends said I was crazy to pass this up. It's double what I am currently making. I filled them in on how I think about time.
 
 # A little time math.
-
 Assuming you sleep for 7 to 9 hours a day [As is recommended by many studies](https://sleepfoundation.org/how-sleep-works/how-much-sleep-do-we-really-need), you only have 15-17 hours a day for "useful activity." The main point here is to stop thinking of sleep as a detriment to your life. Sleep is like driving a car to work. It's necessary. Better sleep is linked to everything from better diet, to financial success. A post on sleep and my battle with it will eventually follow. With an average of 16 hours a day to work with, that leaves us with, per week:
 
 `112 hours `
