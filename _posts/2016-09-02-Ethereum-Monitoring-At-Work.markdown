@@ -68,12 +68,11 @@ $coinvalrounded = [math]::Round($coinvalue,2)
 
 Let's flesh out the rest of the script and get a good look at what our numbers are. A few things will be in a different order, but I beleive we went over all the main components.  Output of the below script will appear as follows. $16,871 a month, not bad at all. There is a bug though, I'll discuss it below the code. I want to see if you can spot it on your own.
 
-<div  markdown="1" style="float: top ;margin: 7px">
-<img src="https://dl.dropboxusercontent.com/u/2959356/blog/2016-09-02%2010_27_52-Windows%20PowerShell%20ISE.png" alt="ethermine json example animation.">
-</div>
+![ethermine json example animation.](https://dl.dropboxusercontent.com/u/2959356/blog/2016-09-02%2010_27_52-Windows%20PowerShell%20ISE.png)
 
 
-```Powershell
+```powershell
+
 $ETHACCTNUMBER="ec9ec16cd0725cdbfe3f6d9e449d7eadd50b6aee"
 
 $electricperkw=0.04792
@@ -118,6 +117,7 @@ Write-Host "Estimated profs.."
 Write-Host "$/$proffit_day -day" -ForegroundColor Green
 Write-Host "$/$proffit_Week -week" -ForegroundColor Green
 Write-Host "$/$proffit_month -month" -ForegroundColor Green
+
 ```
 
 If you said $electricperkw, you were right. Unfortunately, this number is not able to made dynamic without specific knowledge. We need to know both the total KW consumption and price per KW of electricity. For me, it's pretty simple. I use exactly 1KW/hr so I simply multiply the price per kw by 24 to get the electric cost per day.
