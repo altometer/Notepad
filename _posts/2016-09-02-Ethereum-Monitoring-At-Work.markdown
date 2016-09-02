@@ -109,9 +109,6 @@ Write-Host
 Write-Host "Minus $/$ElectricCostsDay for electricity" -ForegroundColor Yellow
 Write-Host "Making net prof of..."
 Write-Host "$/$USD_hour /hour, $/$USD_day /day, and $/$USD_week /week." -ForegroundColor Green
-#Write-Host
-#Write-Host "Estimated end of day proffit at current coin rate.."
-#Write-Host "$/$Proffit_EndofDay" -ForegroundColor Green
 Write-Host
 Write-Host "Estimated profs.."
 Write-Host "$/$proffit_day -day" -ForegroundColor Green
