@@ -30,7 +30,7 @@ $etherminejson = Invoke-RestMethod -Uri $ethermineweb_API
 
 This sets the $etherminejson to all the available data from the API. Invoke-RestMethod is quite nice, it will auto-parse a json api for us to use like so.
 
-Well that's neat. Look, we can access every parameter we might need simply by addressing $etherminejson.<thingy>. And, ass you can see, he's very smart and usually leaves less than a penny in his mining wallet. This is definitely best practice. Add a layer or two of abstraction from your public-facing wallet number to face less risk of theft or bombardment.
+Well that's neat. Look, we can access every parameter we might need simply by addressing $etherminejson.<thingy>. And, as you can see, he's very smart and usually leaves less than a penny in his mining wallet. This is definitely best practice. Add a layer or two of abstraction from your public-facing wallet number to face less risk of theft or bombardment.
 
 Let's set up another one of these for the etherscan API. Same trick as before, using Invoke-RestMethod.
 
