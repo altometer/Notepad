@@ -69,7 +69,7 @@ $coinvalrounded = [math]::Round($coinvalue,2)
 Let's flesh out the rest of the script and get a good look at what our numbers are. A few things will be in a different order, but I beleive we went over all the main components.  Output of the below script will appear as follows. $16,871 a month, not bad at all. There is a bug though, I'll discuss it below the code. I want to see if you can spot it on your own.
 
 ![ethermine json example animation.](https://dl.dropboxusercontent.com/u/2959356/blog/2016-09-02%2010_27_52-Windows%20PowerShell%20ISE.png)
-
+.
 
 ```powershell
 
