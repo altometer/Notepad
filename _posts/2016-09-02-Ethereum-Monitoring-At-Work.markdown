@@ -17,6 +17,7 @@ Here's the actual box.
 Excuse the mess. Things often get hectic on my various workbenches.
 
 So, to get started, ethermine offers a wonderful little api that is accessible via `"http://ethermine.org/api/miner_new/<youraccountnumberhere>"` If you browse to that address, you get a big screen full of text that looks similar to a spreadsheet given a large enough screen. What you are looking at, is the actual data that ethermine.org uses to build up its own graphs and diagrams. Let's look at the available parameters. Since we will be using it a lot, let's set up a variable for our Etherium wallet number. For the purpose of this script, we will use the current top miner on ethermine.org. This all can be done in powershell using Invoke-RestMethod like so:
+
 ```Powershell
 $ETHACCTNUMBER=ec9ec16cd0725cdbfe3f6d9e449d7eadd50b6aee
 $ethermineweb_API = "http://ethermine.org/api/miner_new/$ETHACCTNUMBER"
