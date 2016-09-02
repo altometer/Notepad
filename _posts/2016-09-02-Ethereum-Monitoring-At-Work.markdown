@@ -126,6 +126,6 @@ $electricperKW=0.04792
 $number_mining_rigs=1
 $KWperRig=1
 
-$KWperDay = $electricperKW * $number_mining_rigs * $KWperRig.
+$ElecPricePerDay = $electricperKW * $number_mining_rigs * $KWperRig.
 ```
 In theory, we can infer the number of KW/hour based on the size of the farm, but that's conjecture for another post. Have a happy Labor Day weekend everyone!
